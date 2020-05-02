@@ -33,9 +33,6 @@
 -  Some important information was not provided like  in this query i.e. '" 'reviews_max'  that will have the name of the movie as key, and the maximum number of reviews as values." , here no information provied related to maximum number of reviews. I analyzed dataset again and again , then chose most related column for the same plus raised a ticket with support and that is still under evaluation.
 
 
-- 
-
-
 ### Additional pointers
 
  We should always spend good amount of time on understanding data and problem.
